@@ -32,7 +32,7 @@ To run an example:
 
 3. Navigate to the folder of the example you want to run.
 
-4. Run it using:
+4. Run it using this:
 
     ```bash
     go run main.go
